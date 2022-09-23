@@ -68,3 +68,5 @@ function Settings(props) {
 }
 
 export default Settings;
+
+hiii I'm Anatt
